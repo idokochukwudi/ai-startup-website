@@ -83,6 +83,36 @@ Push Tom's branch to Github
 
 ![](./img/18.gitpushjerrywork.png)
 
+## Merging Changes
+
+### After both Tom and Jerry have pushed their changes, myself (or another team member) can review and merge these changesinto the main project. The process involves
+
+1. Creating a `Pull Request`
+2. Merging the Pull Request into the `main` branch.
+
+## How to create `Pull Request`
+
+- Navigate to GitHub Repository and switch to the branch that Tom have been working on
+
+![](./img/19.pullrequestTOM.png)
+
+- Create New Pull Request
+
+![](./img/20.newpullrequestTOM.png)
+
+### Review Tom Changes and Create Pull Request.
+
+## Updating Jerry's Branch with Latest Changes
+
+- Swich to Jerry's branch - `git checkout add-contact-info`
+- Pull the latest changes from the main branch - `git pull origin main`
+
+- Push the Updated Branch to GitHub: `git push origin add-contact-info`
+
+### The above process demonstrates my proficiency with GitHub and Git in collaborating with other professionals on the same project, utilizing these technologies to manage and divide tasks efficiently.
+
+
+
 
 
 
