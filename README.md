@@ -24,6 +24,8 @@ Create an empty file `index.html` and add content to it.
 
 ## Simulating Tom and Jerry's Work
 
+# TOM'S WORK
+
 - Check current branch
 
 ![](./img/6.checkbranch.png)
@@ -48,6 +50,40 @@ Create an empty file `index.html` and add content to it.
 Commit Tom's Changes
 
 ![](./img/11.tomcommit.png)
+
+Push Tom's branch to Github
+
+![](./img/12.gitpushtom.png)
+
+### The last command sends Tom's commit from my local branch on my laptop to GitHub (Remote Repository)
+
+# JERRY'S WORK
+
+- Switch back to the main branch
+
+- Pull the Latest Changes
+
+![](./img/13.gitpullorigin.png)
+
+- Create a New Branch for Jerry's Work
+
+![](./img/14.jerrybranch.png)
+
+- Open index.html and Add Contact Information
+
+![](./img/15.jerrycontactinfo.png)
+
+- Stage Jerry's Changes
+
+![](./img/16.jerryadd.png)
+
+![](./img/17.jerrycommit.png)
+
+- Push Jerry's Branch to GitHub
+
+![](./img/18.gitpushjerrywork.png)
+
+
 
 
 
