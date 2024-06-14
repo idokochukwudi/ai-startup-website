@@ -28,6 +28,28 @@ Create an empty file `index.html` and add content to it.
 
 ![](./img/6.checkbranch.png)
 
+- Create a new branch for Tom's work
+
+![](./img/7.tombranch.png)
+
+- Open the index.html and add Tom's update
+
+![](./img/8.tomupdate.png)
+
+- Check changes
+
+![](./img/9.statustomupdate.png)
+
+- Stage Tom's changes
+
+![](./img/10.tomstaged.png)
+
+
+Commit Tom's Changes
+
+![](./img/11.tomcommit.png)
+
+
 
 
 
